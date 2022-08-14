@@ -1,0 +1,17 @@
+[id]:[0001]{
+    url:"somedomain1.com",
+    meta-title:"Some Title",
+    meta-description:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni, necessitatibus optio! Architecto veritatis iure ullam quis, sunt nemo omnis cum autem molestias soluta. Iusto libero ad quidem dicta nihil quod!"
+}
+
+[id]:[0002]{
+    url:"somedomain2.com",
+    meta-title:"Some Title",
+    meta-description:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni, necessitatibus optio! Architecto veritatis iure ullam quis, sunt nemo omnis cum autem molestias soluta. Iusto libero ad quidem dicta nihil quod!"
+}
+
+[id]:[0003]{
+    url:"somedomain3.com",
+    meta-title:"Some Title",
+    meta-description:"Lorem Magni, necessitatibus optio! Architecto veritatis iure ullam quis, sunt nemo omnis cum autem molestias soluta. Iusto libero ad quidem dicta nihil quod!ipsum dolor sit amet consectetur adipisicing elit."
+}

@@ -1,0 +1,179 @@
+/*
+Author: anoxtovo (Thumula Basura Suraweera)
+version: 0.1v (2022V1)
+project: Quack Engine 0.1
+*/
+
+a{ text-decoration: none; padding: 10px 0px; color: #4F91FF;}
+
+body { background-color: #212121; color:#ffffff; }
+
+ul li {
+    font-size: 20px;
+    list-style: none;
+}
+
+a:hover {
+    color: #EE0784;
+}
+
+hr {
+    width: 60%;
+    margin: 5px auto;
+    height: 5px;
+    color: #ffffff;
+    background: #ffffff
+}
+
+.container {
+    min-width: 300px;
+    height: auto;
+    background-color: #212121;
+    color: #ffffff;
+}
+
+.container-search {
+    margin: 0 auto;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    height: auto;
+    min-width: 300px;
+    background-color: #212121;
+}
+
+/* Result - Section start */
+
+.results-section {
+    padding: 20px 0px;
+}
+
+.results-section h2 {
+    font-size: 22px;
+}
+
+.results-section p {
+    font-size: 18px;
+}
+
+/* Result - Section end */
+
+.site-logo {
+    padding: 50px 0px;
+}
+
+.site-logo img {
+    height: 70px;
+}
+
+.site-logo img:hover {
+    height: 75px;
+    transition: 0.5s;
+}
+
+.header-menu-main ul{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.header-menu-main ul li {
+    display: inline;
+    padding: 0px 10px;
+}
+
+.search-section {
+    padding: 29px;
+}
+
+.search-box {
+    margin: 20px auto;
+    padding: 10px;
+}
+
+.qe-btn-main {
+    width: 100px;
+    font-weight: bold;
+}
+
+.qe-btn-main:hover {
+    background-color: #EE0784;
+    transition: 0.7s;
+}
+
+.content-section {
+    padding: 20px 15px;
+    text-align: justify;
+}
+
+.nav-links ul{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.nav-links ul li {
+    display: inline;
+    padding: 0px 10px;
+}
+
+/*
+    about
+*/
+
+.content-section h1 {
+    font-size: 46px;
+}
+
+.content-section h2 {
+    font-size: 32px;
+}
+
+.content-section p{
+    font-size: 20px;
+}
+
+
+/*
+    team
+*/
+
+.ourteam {
+    padding: 50px;
+}
+
+.profile-box {
+    padding: 20px;
+    margin-bottom: 20px;
+    border-bottom: 5px solid #ffffff;
+}
+
+.profile-description {
+    text-align: justify;
+}
+
+.social-links ul{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.social-links ul li {
+    display: inline;
+}
+
+.social-links ul li a {
+    font-size: 32px;
+    padding: 5px;
+}
+
+/* Footer Section style */
+.footer-section {
+    padding: 20px;
+}
+
+.footer-section a i {
+    padding: 5px;
+}

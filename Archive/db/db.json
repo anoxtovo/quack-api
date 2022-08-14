@@ -1,0 +1,21 @@
+{
+    "url":"https://www.britannica.com/technology/technology",
+    "indexes": [
+        {"title":"Technology | Definition, Examples, Types, & Facts | Britannica", "description":"technology,  the application of scientific knowledge to the practical aims of human life or, as it is sometimes phrased, to the change and manipulation of the human environment. The subject of technology is treated in a number of articles. For general treatment, see technology, history of; hand tool. For description of the materials that are both the object and means of manipulating the environment, see elastomers; industrial ceramics; industrial glass; metallurgy; mineral deposit; mineral processing; mining; plastic. For the generation of energy, see energy conversion; coal mining; coal utilization; petroleum production; petroleum refining. For treatment of food production, see agriculture,"}
+    ],
+    "from":"google"
+}
+{
+    "url_e":"https://www.britannica.com/dictionary/Encouragement",
+    "indexes_e":[
+        {"title:":"encouragement", "description":"the act of encouraging or encouraging someone to do something"}
+    ],
+    "from":"google"
+}
+{
+    "url_c":"https://www.britannica.com/dictionary/Capitalism",
+    "indexes_c":[
+        {"title:":"capitalism", "description":"the practice of controlling the production of goods and services"}
+    ],
+    "from":"google"
+}
